@@ -1,4 +1,6 @@
 <resources>
+    <string name="app_name">Grid</string>
+
     <string name="architecture">Architecture</string>
     <string name="crafts">Crafts</string>
     <string name="business">Business</string>
@@ -12,4 +14,5 @@
     <string name="music">Music</string>
     <string name="painting">Painting</string>
     <string name="photography">Photography</string>
-    <string name="tech">Tech</string></resources>
+    <string name="tech">Tech</string>
+</resources>
